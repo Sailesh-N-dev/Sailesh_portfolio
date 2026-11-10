@@ -1,3 +1,4 @@
+
 # Sailesh N. | Personal Portfolio
 
 <p align="center">
@@ -12,8 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Sailesh-N-dev">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sailesh21/">LinkedIn</a> •
-  <a href="https://databytesdaily.blogspot.com/">DataBytes Daily</a>
+  <a href="https://www.linkedin.com/in/sailesh21/">LinkedIn</a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 Welcome to my personal portfolio!
 
-I'm **Sailesh N**, a B.Sc. Data Analytics student at Guru Nanak College, Chennai, with an interest in Data Analytics, Business Intelligence, technology, and AI-powered solutions.
+I'm **Sailesh N**, a B.Sc. Data Analytics student at Guru Nanak College, Chennai, interested in Data Analytics, Business Intelligence, technology, and AI-powered solutions.
 
 This portfolio is a personal project created to showcase my academic background, technical skills, certifications, projects, and continuous learning journey.
 
@@ -33,6 +33,7 @@ This portfolio is a personal project created to showcase my academic background,
 Instead of independently writing the entire website code from scratch, I used an AI-assisted development approach to transform my ideas and requirements into a complete, functional website.
 
 The development process involved:
+
 - Using AI to generate the website structure and frontend implementation.
 - Translating design ideas into website layouts and visual elements.
 - Developing responsive sections and interactive components with AI assistance.
@@ -45,6 +46,9 @@ The purpose of this project is to demonstrate how AI can be used as a practical 
 **The website's implementation was AI-generated, not independently hand-coded from scratch.**
 
 I believe understanding how to communicate ideas, guide AI tools, evaluate their output, and use them effectively is an increasingly valuable skill in modern technology.
+## Portfolio preview
+
+![Sailesh N portfolio preview](assets/sailesh_portfolio_fullpage_preview.png)
 
 ## Portfolio Objectives
 
@@ -80,6 +84,7 @@ The main objectives of this portfolio are:
 A data analysis and business intelligence project focused on exploring restaurant information and identifying meaningful business insights.
 
 **Project Objectives**
+
 - Explore restaurant ratings and rating distributions.
 - Analyze restaurant performance.
 - Understand pricing and restaurant categories.
@@ -88,12 +93,14 @@ A data analysis and business intelligence project focused on exploring restauran
 - Present findings through visualizations and an interactive dashboard.
 
 **Technologies Used**
+
 - Python
 - Pandas
 - Matplotlib
 - Streamlit
 
-**GitHub Repository:**  
+**GitHub Repository:**
+
 https://github.com/Sailesh-N-dev/zomato-business-intelligence-dashboard
 
 ### 2. Fuzzy Factory Dashboard
@@ -101,6 +108,7 @@ https://github.com/Sailesh-N-dev/zomato-business-intelligence-dashboard
 A business intelligence dashboard project focused on e-commerce performance analysis and business insights.
 
 **Project Objectives**
+
 - Organize important business performance indicators.
 - Present business metrics through visualizations.
 - Understand product and sales performance.
@@ -108,18 +116,21 @@ A business intelligence dashboard project focused on e-commerce performance anal
 - Make business information easier to interpret.
 
 **Technologies Used**
+
 - Microsoft Power BI
 - Microsoft Excel
 
 ## Technical Toolkit
 
 ### Programming Languages
+
 - Python
 - SQL
 - C++
 - R (Learning)
 
 ### Data Analytics
+
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
 - Statistical Fundamentals
@@ -128,17 +139,20 @@ A business intelligence dashboard project focused on e-commerce performance anal
 - Dashboard Development
 
 ### Python Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 
 ### Database Technologies
+
 - PostgreSQL
 - MySQL
 - SQLite
 - MongoDB
 
 ### Web Development and AI-Assisted Development
+
 - HTML5
 - CSS3
 - JavaScript
@@ -149,6 +163,7 @@ A business intelligence dashboard project focused on e-commerce performance anal
 - Flask
 
 ### Tools and Platforms
+
 - Microsoft Excel
 - Microsoft Power BI
 - Visual Studio Code
@@ -183,14 +198,16 @@ Present the findings through dashboards, visualizations, and understandable expl
 
 I'm continuously strengthening my technical foundation and exploring new areas of technology.
 
-**Currently Exploring**
+### Currently Exploring
+
 - SAS Visual Analytics
 - Business Intelligence
 - Advanced SQL concepts
 - Python for Data Analytics
 - Data Visualization
 
-**Future Areas of Interest**
+### Future Areas of Interest
+
 - Supply Chain Analytics
 - Inventory Optimization
 - Operational Analytics
@@ -283,7 +300,6 @@ I'm interested in internship opportunities, learning experiences, analytics proj
 
 - **GitHub:** https://github.com/Sailesh-N-dev
 - **LinkedIn:** https://www.linkedin.com/in/sailesh21/
-- **Blog:** https://databytesdaily.blogspot.com/
 
 Feel free to explore my projects and connect with me.
 
